@@ -1,2 +1,0 @@
-Liczba pytan : 16
-Liczba poprawnych odpowiedzi : 8
