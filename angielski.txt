@@ -1,0 +1,16 @@
+cow
+raven
+Crow
+crane
+heron
+woodpecker
+cat
+dog
+mouse
+pig
+parrot
+giraffe
+crocodile
+dragon
+unicorn
+lynx
